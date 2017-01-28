@@ -1,0 +1,116 @@
+﻿- jquery eklemek lazım: form kontrol,
+- takip ettiklerim listesinde isim yerine resim olmalı, diğerleri gibi
+- herkes wodpress'e geçiyor ama...
+
+29 Mayıs 2011
+	- güvenli düzenle seçeneği eklendi bloglara
+	- yöneticiyken önceki / sonraki bloglarda yayınlanmamış bloglar gözüküyor artık
+	- bana gelen mesajlara okundu / okunmadı diye işaretleyebiliyorum artık
+	- blog kaydet ve yayınla prosedürleri elden geçti
+	- blogları yayınlamadan kaydetme özelliği eklendi
+14 Mart 2011
+	- cv ve projelerim için otomatik düzenle linki ekledim
+5 Aralık 2010
+	- yönetim menüsünü dropdown menüye döüştürdüm
+3 Aralık 2010
+	- Bloglardaki Yönetim tuşlarını dropwon menü şekline soktum
+1 Aralık 2010
+	- siteye rss ile takip et linki ekledim
+	- rss sayfasındaki hataları giderdim, sadeleştirdim.
+	- iletişime benim iletişim adreslerini ekledim
+	- site tekrar valid HTML'ye kavuştu elhamdülillah.
+30 Kasım 2010
+	- sayfa numaralarını deiştirdim: en yeni yazılar en son sayfada gözüküyor artık...
+	- bloglar için yorumlanabilir/yorumlanabilemezler diye bir bölüm ekledim
+	- işlem.asp'de yorumu kapalı bloglara yorum eklenmemesi için bir satır ekledim.
+29 Kasım 2010
+	- bloglara paylaş linki ekledim, addthis.com adresinden.
+	- headera link verdim sitenin anasayfasına.
+	- bloga rastgele modülü ekledim ki milletin ilgisini çekip okusunlar
+	- etiket auto complete çalışmıyormuş, tekrardan düzelttim.
+28 Kasım 2010
+	- önceki yazı ve sonraki yazı linklerini düzelttim.
+	- yukarı çık linki ekledim. waayy be
+	- yeni tasarım yüzünden oluşan tasarım hatalarını düzelttim. (ama hala var)
+26 Kasım 2010
+	- sitenin sağ üst tarafına bir çiçek deseni ekledim.
+	- sitenin sağ bloğunu sabit orta kısmını oynak yapan bir css yerleştirdim çok şükür...
+25 Kasım 2010
+	- sitede bir tasarım değişikliğine gittim, siyah beyaza yaklaştırdım mavinin tonlarından...
+	- blog yazma prosedürünü düzeltmeye uğraştım.
+	- özgeçmişimi ve projelerimi güncelledim
+22 Kasım 2010
+	- asp catchpa image security ekledim yoruma ve mesaj göndermeye
+18 Kasım 2010
+	- editörü cfeditor olarak değiştirdim.
+7 Temmuz 2010
+	- önceki ve sonraki yazı linki ekledim bloglara
+	- aramaya tarih ve okunma eklendi
+25 Haziran 2010
+	- spam koruması lazımdı mesaj atmaya ve yorum yazmaya, birşeyler ekledim.
+13 Haziran 2010
+	- footer yaptım bir tane, iyi gibi oldu
+2 Haziran 2010
+	- hata ve başarı mesajları yeni stile uygun hale getirildi
+	- yorumlardaki zaman, tarih ve saat olarak ikiye bölündü
+	- yeni stildeki son hatalar da giderildi :D
+	- özgeçmişimi yazdım
+	- yorum adminden geliyorsa farklı gözüküyor
+	- projelerim sayfası hazırlandı
+	- yeni blog yazma sayfasında otomatik etiket tamamlama oluşturuldu, muhteşem oldu
+	- avatarlar ve avatar hesaplama kodlarım sisteme eklendi.... uyuyamadım da... (01:59)
+1 Haziran 2010
+	- sayfa adresini ayırma prosedüründe hata varmış, düzelttim.
+	- formlardaki kayıklık düzeltildi
+	- yöneticideki istatistik bölümüne linkler eklendi
+	- sen css'i siteme aapte ettim, güzel olcak: hata-başarı ve formlardaki bozukluk gidince
+31 Mayıs 2010
+	- site üzerinden upload işlemleri gerçekleşebiliyor artık
+	- upload edilmiş resimler gözüküyor aynı yerden
+	- bana mesaj atabilecekleri bir sayfa hazırladım
+	- iletişim sayfasına messenger'dan konuşma iframe'i ekledim
+29 Mayıs 2010
+	- sayfa adresini ayırma prosedürü herhangi bir web adresinde çalışacak şekilde oldu...
+	- tasarıma bir üst menü eklendi, işlevsel hale getirilecek
+	- linklerin ve kategorilerin aşağı-yukarı oynatma prosedürleri iptal edildi
+26 Mayıs 2010
+	- database'deki site adresini tüm linklere ve resimlere ekle...
+23 Mayıs 2010
+	- blog düzenleme çalışmaya başladı
+	- link ekleyip düzeltebiliyorum artık
+	- arama metodu get oldu, türkçe karakter hatası giderildi
+	- sitenin genel ayarları site üzerinden görülüp değiştirilebiliyor
+	- etiketleri görüp kolayca değiştirebiliyorum artık...
+	- kategori ekleme, çıkarma ve düzeltme tamam
+22 Mayıs 2010
+	- hata bilgisi gibi bir de başarı bilgisi eklendi
+	- artık yeni yönetim sayfasından yeni blog yazılabiliyor....
+	- blog silme ve aktif/pasif yapma işlemeye başladı
+	- pasif olan blogların kategorileri ve etiketleri gözükmüyor
+18 Mayıs 2010
+	- her blog için ayrı birer okunma  sayısı belirtildi, günlük okundukça artıyor
+	- yönetimden tüm linkleri görüp, sıralarını değiştirip silebiliyorum, ekleme ve düzenleme kaldı
+	- yönetimden tüm yorumları görüp, onaylayıp silebiliyorum
+	- CSS Sprite ile resimler birleştirilip parçalandı, çok daha az yer kaplıyor
+16 Mayıs 2010
+	- modüllerin yerlerinin değiştirilebilir olması lazımdı, oldu bitti
+	- header resmi küçültülüp tüm div köşeleri yuvarlaklaştırıldı
+	- etiket sayfası eklendi, etiket ve kategori gösterirken en son blog en üstte listeleniyor 
+	- arşiv sayfasındaki sıralama değiştirildi
+	- blog yazma prosedürü diğer sayfalardan çağrılmaya başlandı
+15 Mayıs 2010
+	- blog yazma prosedürünü ayırdım, şimdi çağırıp duruyorum
+11 Mayıs 2010
+	- WYSIWYG editor (tiny_mce) yeni yazma bölümüne iliştirildi
+10 Mayıs 2010
+	- submit butonlar için genel bir stil oluşturuldu
+	- yeni yazı ekleme bölümüne tiny_mce - textarea editör eklendi
+	- etiket_ad ve etiket_bulut ayrıldı, sitede de düzeltildi
+08 Mayıs 2010
+	- etiket tablosu ve bulutu eklendi
+	- anasayfadan giriş yapma özelliği eklendi
+	- arama ve login formu için otomatik yazı değişme efekti eklendi
+07 Mayıs 2010
+	- çeşitli blog kodları incelendi, en iyileri seçildi: en iyisi ABT Blog, ayberk.com
+06 Mayıs 2010
+	- kendi blog sitemi oluşturma fikri çıktı
